@@ -20,19 +20,19 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Título do Projeto Extremamente Aesthetic: Usando IAs generativas para criação de Imagens;
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criação de uma imagem de 2 carros (Honda NSX e Nissan GTR R35) correndo em uma cidade de noite
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT e germini
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Pedi para as IAs criarem a imagem dos carros primeiro, em seguida pedi para que as IAs colocassem os carros em uma corrida dentro de uma cidade. Ao final de tudo pedi para elas que polissem as imagens que criaram
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+(https://github.com/CTKFk/lab-natty-or-not/blob/main/Desafio%20DIO.png)
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
